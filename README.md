@@ -1,5 +1,3 @@
-### curso-apache-beam
-
 # Projeto desenvolvido no Curso Apache Beam: Datapipeline com Python da Alura
 
 ## Stacks utilizadas: Apache Beam com Python
