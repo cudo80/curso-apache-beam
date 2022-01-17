@@ -10,12 +10,12 @@
 
 # Ative o ambiente virtual
 
-<% source env/bin/activate>
+% source env/bin/activate
 
 # Instale o Apache Beam no ambiente virtual
 
-<% pip install apache-beam>
+% pip install apache-beam
 
 # Execute o arquivo main.py
 
-<% python3 main.py>
+% python3 main.py
